@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="fishspot",
+    name="kfishspot",
     version="0.2.2",
     author="Greg M. Fleishman",
     author_email="greg.nli10me@gmail.com",
